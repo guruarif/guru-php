@@ -1,0 +1,10 @@
+{
+    "name": "guru/guru-php-mvc",
+    "authors": [
+        {
+            "name": "Arif Ahmed",
+            "email": "guruarifahmed@gmail.com"
+        }
+    ],
+    "require": {}
+}
