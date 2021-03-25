@@ -1,13 +1,13 @@
 <?php
 
 
-namespace App\Core;
+namespace guruarif\guruphp;
 
 /**
  *
  * Class View
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core;
+ * @package guruarif\guruphp;
  */
 
 class View

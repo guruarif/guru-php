@@ -1,15 +1,15 @@
 <?php
 
 
-namespace App\Core\Form;
+namespace guruarif\guruphp\Form;
 
-use App\Core\Model;
+use guruarif\guruphp\Model;
 
 /**
  *
  * Class BaseField
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core\Form
+ * @package guruarif\guruphp\Form
  */
 
 abstract class BaseField

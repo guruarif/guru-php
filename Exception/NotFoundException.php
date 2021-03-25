@@ -1,13 +1,13 @@
 <?php
 
 
-namespace App\Core\Exception;
+namespace guruarif\guruphp\Exception;
 
 /**
  *
  * Class NotFoundException
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core\Exception;
+ * @package guruarif\guruphp\Exception;
  */
 
 class NotFoundException extends \Exception

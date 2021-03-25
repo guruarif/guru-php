@@ -1,15 +1,15 @@
 <?php
 
-namespace App\Core\Middlewares;
+namespace guruarif\guruphp\Middlewares;
 
-use App\Core\Application;
-use App\Core\Exception\ForbiddenException;
+use guruarif\guruphp\Application;
+use guruarif\guruphp\Exception\ForbiddenException;
 
 /**
  *
  * Class AuthMiddleware
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core\Middlewares;
+ * @package guruarif\guruphp\Middlewares;
  */
 
 class AuthMiddleware extends BaseMiddleware

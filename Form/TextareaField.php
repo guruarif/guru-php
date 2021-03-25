@@ -1,13 +1,13 @@
 <?php
 
 
-namespace App\Core\Form;
+namespace guruarif\guruphp\Form;
 
 /**
  *
  * Class Field
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core\Form
+ * @package guruarif\guruphp\Form
  */
 
 class TextareaField extends BaseField

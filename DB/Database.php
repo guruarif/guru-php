@@ -1,14 +1,14 @@
 <?php
 
-namespace App\Core\DB;
+namespace guruarif\guruphp\DB;
 
-use App\Core\Application;
+use guruarif\guruphp\Application;
 
 /**
  *
  * Class Database
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core\DB;
+ * @package guruarif\guruphp\DB;
  */
 
 class Database

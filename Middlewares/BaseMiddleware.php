@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Core\Middlewares;
+namespace guruarif\guruphp\Middlewares;
 
 /**
  *
  * Class BaseMiddleware
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core\Middlewares;
+ * @package guruarif\guruphp\Middlewares;
  */
 
 

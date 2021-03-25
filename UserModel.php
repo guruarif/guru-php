@@ -1,14 +1,14 @@
 <?php
 
-namespace App\Core;
+namespace guruarif\guruphp;
 
-use App\Core\DB\DBModel;
+use guruarif\guruphp\DB\DBModel;
 
 /**
  *
  * Class UserModel
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core;
+ * @package guruarif\guruphp;
  */
 
 abstract class UserModel extends DBModel

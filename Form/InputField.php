@@ -1,14 +1,14 @@
 <?php
 
-namespace App\Core\Form;
+namespace guruarif\guruphp\Form;
 
-use App\Core\Model;
+use guruarif\guruphp\Model;
 
 /**
  *
  * Class Field
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core\Form
+ * @package guruarif\guruphp\Form
  */
 class InputField extends BaseField
 {

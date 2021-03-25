@@ -1,14 +1,14 @@
 <?php
-namespace App\Core;
+namespace guruarif\guruphp;
 
-use App\Core\Exception\ForbiddenException;
-use App\Core\Exception\NotFoundException;
+use guruarif\guruphp\Exception\ForbiddenException;
+use guruarif\guruphp\Exception\NotFoundException;
 
 /**
 * 
 * Class Router
 * @author Guru Arif <guruarifahmed@gmail.com>
-* @package App\Core
+* @package guruarif\guruphp
 */
 
 class Router
@@ -53,7 +53,7 @@ class Router
             return Application::$app->view->renderView($callback);
         }
         if (is_array($callback)){
-            /** @var  \App\Core\Controller $controller */
+            /** @var  \guruarif\guruphp\Controller $controller */
             $controller = new $callback[0]();
             Application::$app->controller = $controller;
             $controller->action = $callback[1];

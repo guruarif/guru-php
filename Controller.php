@@ -1,11 +1,11 @@
 <?php
-namespace App\Core;
-use App\Core\Middlewares\BaseMiddleware;
+namespace guruarif\guruphp;
+use guruarif\guruphp\Middlewares\BaseMiddleware;
 /**
  *
  * Class Controller
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core;
+ * @package guruarif\guruphp;
  */
 
 class Controller
@@ -14,7 +14,7 @@ class Controller
     public string $action = '';
 
     /**
-     * @var \App\Core\Middlewares\BaseMiddleware[]
+     * @var \guruarif\guruphp\Middlewares\BaseMiddleware[]
      */
     protected array $middlewares = [];
 

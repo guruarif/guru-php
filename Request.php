@@ -1,10 +1,10 @@
 <?php
-namespace App\Core;
+namespace guruarif\guruphp;
 /**
 * 
 * Class Request
 * @author Guru Arif <guruarifahmed@gmail.com>
-* @package App\Core
+* @package guruarif\guruphp
 */
 
 class Request

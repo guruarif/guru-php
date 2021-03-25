@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Core;
+namespace guruarif\guruphp;
 
 /**
  *
  * Class Session
  * @author Guru Arif <guruarifahmed@gmail.com>
- * @package App\Core
+ * @package guruarif\guruphp
  */
 
 class Session
